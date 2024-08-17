@@ -6,7 +6,7 @@ Team Name
 Interview : นาย วีรภัทร สุขนิวัตรศิริ ID Student:67130500114
 ## Indroduce
 
-| Question                | Answer           |   |
+| Question                | Answer           | ([http://github.com](https://github.com/Weeraphat-C/ProjectP-/edit/main/README.md))  |
 |----------------------|-----------------|-------------------|
 | ชื่อจริง        | นาย วีรภัทร สุขนิวัตรศิริ  | 
 | ชื่อเล่น           | พีท           | 
@@ -16,5 +16,4 @@ Interview : นาย วีรภัทร สุขนิวัตรศิร
 | งานอดิเรก         |เปียโน          | 
 | ศิลปินคนโปรด            | Yiruma        | 
  
-([http://github.com](https://github.com/Weeraphat-C/ProjectP-/edit/main/README.md))
 ![w](https://github.com/user-attachments/assets/21bb0fbc-c1fb-4fd3-807f-7a3b5ba47de6)
